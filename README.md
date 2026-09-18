@@ -1,2 +1,2 @@
 # ticket-discount-checker
-a simple java program that checks if user is eligible for discounts
+repo with a simple java program that checks if user is eligible for discounts
